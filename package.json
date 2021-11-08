@@ -1,0 +1,28 @@
+{
+  "name": "http-server-queue-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "serve": "nodemon run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://narisong: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@github.com/narisong/http-server-queue-websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narisong/http-server-queue-websocket/issues"
+  },
+  "homepage": "https://github.com/narisong/http-server-queue-websocket#readme",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.5.5"
+  }
+}
